@@ -37,3 +37,4 @@ build/
 *.iws
 target/
 *.jar
+/lib
